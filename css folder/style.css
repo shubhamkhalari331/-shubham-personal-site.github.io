@@ -46,18 +46,16 @@ body{
 
 .top_cloud{
   position: absolute;
-  right:200px;
+  right:250px;
   top:50px;
-  height:100px;
-  width:250px;
+  
 }
 
 .bottom-cloud{
   position: absolute;
-  left:150px;
+  left:250px;
   bottom: 200px;
-  height:100px;
-  width:250px;
+  
 }
 
 .profile-pic{
